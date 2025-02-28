@@ -1,0 +1,22 @@
+{
+  "soccer": {
+    "name": "Soccer",
+    "subscribers": 800000,
+    "description": "The futbol subreddit.",
+    "posts": [
+      {
+        "title": "Title 1",
+        "author": "Author 1"
+      },
+      {
+        "title": "Title 2",
+        "author": "Author 2"
+      },
+      {
+        "title": "Title 3",
+        "author": "Author 3",
+        "img": ""
+      }
+    ]
+  }
+}
