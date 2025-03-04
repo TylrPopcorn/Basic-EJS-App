@@ -1,0 +1,25 @@
+<!-- https://ejs.co/#docs -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Random</title>
+  </head>
+  <body>
+    <!-- <%= //Outputs the value into the template (HTML escaped) %> -->
+    <h1>Your random number is: <%= rand%></h1>
+
+    <!-- conditional statement -->
+    <!-- <% //'Scriptlet' tag, for control-flow, no output %> -->
+    <% if (rand % 2 === 0){ %>
+    <h2>Even number</h2>
+    <% } else { %>
+    <h2>Odd number</h2>
+    <% } %>
+
+    <!-- different wey of doing conditional statement -->
+    <h3><%= num%2===0 ? 'EVEN' : 'ODD' %></h3>
+  </body>
+</html>
