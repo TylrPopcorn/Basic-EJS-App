@@ -11,9 +11,8 @@ For those new to EJS and Express, this repository offers a practical example of:
 
 Exploring this repository can provide valuable insights into building server-rendered applications using Node.js and EJS.
 
-Live:
+![image](https://github.com/user-attachments/assets/23ca6257-0d1f-4a0f-acfa-e96b6d64ccd0)
 
-[img]
 
 <sup>Credit goes to the original/external sources used.</sup>
 
